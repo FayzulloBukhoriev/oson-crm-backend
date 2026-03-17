@@ -64,8 +64,12 @@ Business Logic Layer
 Database Layer
 
 📸 Screenshots
+schema database
+<img width="1532" height="768" alt="image" src="https://github.com/user-attachments/assets/d5d105da-e92c-4f9d-b269-db1c86ec0c66" />
+architectura
+<img width="449" height="728" alt="image" src="https://github.com/user-attachments/assets/49fb3bd1-9fc0-4e28-b241-014a21144282" />
 
-Add screenshots here (Postman, database schema, etc.)
+
 
 🔐 Notes
 
